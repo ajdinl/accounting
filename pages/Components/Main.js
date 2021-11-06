@@ -15,6 +15,8 @@ const Main = () => {
 				<div className='border-2 border-white border-opacity-100 p-2 sm:p-10 bg-white opacity-50'>
 					<Typical
 						steps={[
+							'ACCOUNTING D.O.O.',
+							3000,
 							'PODRSKA KOJU ZASLUZUJETE',
 							3000,
 							'VIDI VISE OD BROJEVA',
