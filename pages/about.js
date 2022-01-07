@@ -1,11 +1,11 @@
-import Content from './Components/Content'
+import Content from '../components/Content'
 
 const About = () => {
-	return (
-		<div>
-			<Content />
-		</div>
-	)
+  return (
+    <div>
+      <Content />
+    </div>
+  )
 }
 
 export default About
