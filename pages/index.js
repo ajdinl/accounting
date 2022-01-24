@@ -10,8 +10,8 @@ export default function Home() {
         <title>Accounting d.o.o. Sarajevo</title>
         <link rel='icon' href='/icon.ico' />
       </Head>
+      <Navbar />
       <main className='flex flex-col items-center justify-center w-full flex-1 text-center'>
-        <Navbar />
         <Main />
       </main>
       <Footer />

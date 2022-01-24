@@ -1,6 +1,6 @@
 const FindUsComponent = () => {
   return (
-    <div>
+    <div className='flex flex-col w-3/4 space-y-4'>
       <div>
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse enim,
         velit iste ipsum ullam aliquam sed doloremque temporibus nesciunt omnis

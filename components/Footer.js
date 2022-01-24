@@ -2,7 +2,7 @@ import { PhoneIcon, MailIcon } from '@heroicons/react/solid'
 
 const Footer = () => {
   return (
-    <footer className='flex space-x-3 flex-wrap items-center justify-center w-full h-24 border-t border-gray-300'>
+    <footer className='flex space-x-3 flex-wrap items-center justify-center w-full h-24 '>
       <a href='https://knjigovodstvo.netlify.app/'>Accounting d.o.o.</a>
       <div className='flex flex-row'>
         <PhoneIcon className='h-4 sm:h-5 w-4 sm:w-5 text-blue-800' />
